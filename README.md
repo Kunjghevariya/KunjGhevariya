@@ -21,10 +21,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunjghevariya)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunj.ghevariya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunjghevariya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=vercel&logoColor=white)](https://kunjghevariya.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunjghevariya/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunj.ghevariya@gmail.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunjghevariya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=vercel&logoColor=white)](https://kunjghevariya.netlify.app/)
 
 </div>
 
