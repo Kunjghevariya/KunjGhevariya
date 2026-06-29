@@ -208,7 +208,7 @@ $ cat current_projects.json
 
 ## 📈 Contribution Graph
 
-[![Kunj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjghevariya&bg_color=0D1117&color=1D9E75&line=378ADD&point=EF9F27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kunj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunjghevariya&bg_color=0D1117&color=1D9E75&line=378ADD&point=EF9F27&area=true&hide_border=true)]
 
 ---
 
